@@ -24,13 +24,13 @@ The work combines real-time monitoring hardware, a cloud data and analytics plat
 
 ### Consortium
 
-**IMKA Holdings Ltd (Host Organisation, Coordinator)**
-Karim Arnous, Andrey Sesyuk, Marinos Antoniou, Matthew Faghiri
+**IMKA Holdings Ltd (Host Organisation)**
+Dr Andrey Sesyuk, Karim Arnous, Marinos Antoniou, Matthew Faghiri
 
-**GridQ Ltd / Neura Energy (Partner 1, Technical Lead)**
+**GridQ Ltd / Neura Energy (Partner 1)**
 Dr Andreas Procopiou, Antonis Antoniou
 
-**Restrol (Partner 2, Hardware Integration)**
+**Restrol (Partner 2)**
 Giorgos Masourekkos
 
 ---
@@ -82,7 +82,7 @@ Deliverable reports are available upon request to the coordinator. A selection o
 
 ## Contact
 
-Coordinator: Andrey Sesyuk, IMKA Holdings Ltd — [as@neura.energy](mailto:as@neura.energy)
+**Project Coordinator:** [Dr. Andrey Sesyuk](https://www.linkedin.com/in/asesyuk/) - [as@neura.energy](mailto:as@neura.energy)
 
 ---
 
