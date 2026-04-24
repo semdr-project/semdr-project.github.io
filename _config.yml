@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: SEMDR
 description: Smart Energy Management and Demand Response Capabilities for Sustainable Industry. RIF RESTART project COM-CONCEPT-ENERGY/0624/0160. Pilot deployment at Elias Beach Hotel, Limassol, Cyprus.
+logo: /images/semdr_logo.png
 github:
   is_project_page: true
 show_downloads: false
