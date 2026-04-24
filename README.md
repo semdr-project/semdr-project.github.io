@@ -37,23 +37,41 @@ Giorgos Masourekkos
 
 ## News
 
-#### March 2026
-Pool pump optimisation 58-day production results verified: 24.2% average cost savings, 100% water turnover compliance, 99.9% uptime.
+#### March 2026 — Project completion
+The 12-month SEMDR project completed on 31 March 2026, with all 15 defined key performance indicators met or exceeded.
 
-#### January 2026
-HVAC supervisory control validated against a custom thermal model of Elias Beach Hotel calibrated from on-site building management system data. 10.9% projected energy savings, 96% reduction in thermal comfort violations.
+#### 24 March 2026 — SEMDR Stakeholder Webinar
+Online webinar delivered via Google Meet to stakeholders from the hospitality industry, the energy sector, and the research community. Presented by Dr Andrey Sesyuk and Karim Arnous (IMKA) and Dr Andreas Procopiou (GridQ). The webinar covered the Cyprus energy context, the SEMDR system architecture, the pilot deployment, and validated results for both the pool pump and HVAC use cases. Promoted via LinkedIn and covered in an article on CyprusEnergyNews: [SEMDR — Smart Chiller Optimization in Cyprus Hotels](https://www.cyprusenergy.news/post/semdr-smart-chiller-optimization-cyprus-hotels).
 
-#### September 2025
-SEMDR results presented at the CIGRE Session 2025, Athens. Oral presentation; proceedings pending.
+#### March 2026 — Pool pump optimisation
+The pool pump optimisation algorithm has been running continuously and autonomously at the pilot site since its promotion to production in November 2025. 
 
-#### November 2025
-Pool pump optimisation deployed to continuous autonomous production operation at Elias Beach Hotel.
+#### 2–5 March 2026 — 4YFN AI & Start-up Conference, Barcelona
+The consortium presented SEMDR at the Cyprus National Booth at the 4YFN conference in Barcelona, alongside the RIF delegation. The SEMDR project dashboard was displayed on the RIF booth screens throughout the event.
 
-#### August 2025
-Pool pump control hardware and mesh network communications infrastructure fully operational at the pilot site.
+#### January 2026 — HVAC supervisory control validated against Elias Digital Twin
+The HVAC supervisory control algorithm has been validated against a custom thermal model of the pilot site, calibrated using real data collected from the hotel's building management system during the cooling season.
 
-#### April 2025
-Project launched.
+#### 12 December 2025 — SEMDR results presented at CIGRE 2025, Athens
+Dr Andrey Sesyuk (Project Coordinator) presented the consortium paper *"Real-World Demonstration of Optimized Pool Pump Control for Demand Response in the Hospitality Sector"* at the 32nd Scientific Conference of EU CIGRE in Athens, Greece.
+
+#### November 2025 — Pool pump optimisation promoted to production
+After passing all promotion gates during supervised shadow-mode and controlled-activation trials, the system was promoted to continuous autonomous operation at pilot site.
+
+#### October 2025 — Building Management System upgrade completed
+The vendor-approved upgrade to Elias Beach Hotel's BMS was completed, enabling access for both read and write operations. Live chiller operational data were collected under this integration. This BMS data was subsequently used to calibrate the Elias Digital Twin thermal model. The same month, integration with Cyprus day-ahead electricity market prices from TSOC went live, enabling tariff-aware scheduling for both the pool pump and HVAC algorithms.
+
+#### August 2025 — Field installation complete; continuous telemetry live
+Continuous telemetry went live across the hotel mains, the pool pump circuit, the refrigeration board, and the lobby environment. All edge devices communicate with the cloud. The mesh network providing on-site connectivity was also commissioned and handed over.
+
+#### June 2025 — Project website launched
+The SEMDR project website launched at [https://semdrcy.replit.app](https://semdrcy.replit.app), providing a public access point for project information, news, and partner profiles.
+
+#### May 2025 — Architecture workshop
+All three consortium partners met to finalise the end-to-end integration plan for the pilot site, covering edge hardware, the AWS cloud pipeline, the BMS integration path, and the validation methodology for each use case.
+
+#### April 2025 — Project kick-off
+The SEMDR consortium (IMKA, GridQ Ltd / Neura Energy, Restrol) kicked off the 12-month RIF RESTART project (Project Code COM-CONCEPT-ENERGY/0624/0160) at Elias Beach Hotel, Limassol. Pilot site familiarisation and first site assessment completed.
 
 ---
 
