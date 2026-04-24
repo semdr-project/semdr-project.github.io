@@ -48,6 +48,7 @@ The pool pump optimisation algorithm has been running continuously and autonomou
 
 #### 2–5 March 2026 — 4YFN AI & Start-up Conference, Barcelona
 The consortium presented SEMDR at the Cyprus National Booth at the 4YFN conference in Barcelona, alongside the RIF delegation. The SEMDR project dashboard was displayed on the RIF booth screens throughout the event.
+
 <img src="images/4yfn.jpg" alt="4YFN" width="400">
 <img src="images/4yfn-boothj.jpg" alt="4YFN Booth" width="400">
 
@@ -56,6 +57,7 @@ The HVAC supervisory control algorithm has been validated against a custom therm
 
 #### 12 December 2025 — SEMDR results presented at CIGRE 2025, Athens
 Dr Andrey Sesyuk (Project Coordinator) presented the consortium paper *"Real-World Demonstration of Optimized Pool Pump Control for Demand Response in the Hospitality Sector"* at the 32nd Scientific Conference of EU CIGRE in Athens, Greece.
+
 ![CIGRE](images/cigre.jpg)
 
 #### November 2025 — Pool pump optimisation promoted to production
@@ -98,15 +100,15 @@ The SEMDR project produced 17 deliverables across five work packages. The delive
 
 ### Work Package 2 — Dissemination, Exploitation, and Open Science
 
-* **D2.1 — Dissemination, Communication, and Outreach Activities Report** [[PDF]](deliverables/SEMDR_Deliverable_D21_Dissemination, Communication, and Outreach Activities Report_v1.pdf)
-* **D2.3 — Open Science Activities Report** [[PDF]](deliverables/SEMDR_Deliverable_D23_Open Science Activities Report_v1.pdf)
-* **D2.4 — Data Management Plan** [[PDF]](deliverables/SEMDR_Deliverable_D24_Data Management Plan_v1.pdf)
+* **D2.1 — Dissemination, Communication, and Outreach Activities Report** [[PDF]](deliverables/SEMDR_Deliverable_D21_Dissemination,_Communication,_and_Outreach_Activities_Report_v1.pdf)
+* **D2.3 — Open Science Activities Report** [[PDF]](deliverables/SEMDR_Deliverable_D23_Open_Science_Activities_Report_v1.pdf)
+* **D2.4 — Data Management Plan** [[PDF]](deliverables/SEMDR_Deliverable_D24_Data_Management_Plan_v1.pdf)
 
 ### Work Package 3 — Technical Requirements and System Validation
 
-* **D3.1 — State of the Art Review** [[PDF]](deliverables/SEMDR_Deliverable_D31_State of the Art Review_v1.pdf)
-* **D3.2 — Technical Requirements and Specifications** [[PDF]](deliverables/SEMDR_Deliverable_D32_Technical Requirements and Specifications Report_v1.pdf)
-* **D3.3 — Use Case Scenarios and KPIs Report** [[PDF]](deliverables/SEMDR_Deliverable_D33_Use Case Scenarios and KPIs Report_v1.pdf)
+* **D3.1 — State of the Art Review** [[PDF]](deliverables/SEMDR_Deliverable_D31_State_of_the_Art_Review_v1.pdf)
+* **D3.2 — Technical Requirements and Specifications** [[PDF]](deliverables/SEMDR_Deliverable_D32_Technical_Requirements_and_Specifications_Report_v1.pdf)
+* **D3.3 — Use Case Scenarios and KPIs Report** [[PDF]](deliverables/SEMDR_Deliverable_D33_Use_Case_Scenarios_and_KPIs_Report_v1.pdf)
 
 ---
 
