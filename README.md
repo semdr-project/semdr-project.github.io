@@ -1,6 +1,6 @@
 # SEMDR
 
-![SEMDR banner](https://raw.githubusercontent.com/semdr-project/semdr-project.github.io/main/images/banner.png)
+![SEMDR logo](images/semdr_logo.png)
 
 ## Smart Energy Management and Demand Response Capabilities for Sustainable Industry
 
