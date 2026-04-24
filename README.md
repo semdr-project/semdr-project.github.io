@@ -27,13 +27,13 @@ The work combines real-time monitoring hardware, a cloud data and analytics plat
 ### Consortium
 
 **IMKA Holdings Ltd (Host Organisation)**
-Dr Andrey Sesyuk, Karim Arnous, Marinos Antoniou, Matthew Faghiri
+Dr Andrey Sesyuk, Mr Karim Arnous, Mr Marinos Antoniou, Mr Matthew Faghiri
 
 **GridQ Ltd / Neura Energy (Partner 1)**
-Dr Andreas Procopiou, Antonis Antoniou
+Dr Andreas Procopiou, Mr Antonis Antoniou
 
 **Restrol (Partner 2)**
-Giorgos Masourekkos
+Mr Giorgos Masourekkos
 
 ---
 
