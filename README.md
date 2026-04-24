@@ -16,6 +16,8 @@ The work combines real-time monitoring hardware, a cloud data and analytics plat
 
 **Duration:** 1 April 2025 – 31 March 2026 (12 months)
 
+**Funding Received:** €199.748,10
+
 **Host Organisation:** [IMKA Holdings Ltd](https://www.imkacy.com/)
 
 **Partners:** [GridQ Ltd (Neura Energy)](https://neura.energy) · Restrol
