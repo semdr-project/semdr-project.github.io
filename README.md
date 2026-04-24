@@ -89,9 +89,7 @@ The SEMDR consortium (IMKA, GridQ Ltd / Neura Energy, Restrol) kicked off the 12
 
 ## Publications
 
-* A. Procopiou et al., *[paper title]*, CIGRE Session 2025, Athens, Greece, September 2025. Oral presentation. Proceedings forthcoming.
-
-*(Additional publications from the project will be listed here as they appear.)*
+* **A. Sesyuk, K. Arnous, G. Masourekkos, A. Antoniou, A. Kryvarot, and A. T. Procopiou**, *"Real-World Demonstration of Optimized Pool Pump Control for Demand Response in the Hospitality Sector,"* 32nd Session of the Hellenic CIGRE Committee — CIGRE Greece 2025 Athens Session, Session C6 Active Distribution Systems and Distributed Energy Resources, Athens, Greece, 12 December 2025. 
 
 ---
 
