@@ -1,6 +1,6 @@
 # SEMDR
 
-![SEMDR logo](images/semdr_logo.png)
+ <img src="images/semdr-logo.png" alt="SEMDR logo" style="max-width: 500px; width: 100%; height: auto;">
 
 ## Smart Energy Management and Demand Response Capabilities for Sustainable Industry
 
