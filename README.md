@@ -48,12 +48,15 @@ The pool pump optimisation algorithm has been running continuously and autonomou
 
 #### 2–5 March 2026 — 4YFN AI & Start-up Conference, Barcelona
 The consortium presented SEMDR at the Cyprus National Booth at the 4YFN conference in Barcelona, alongside the RIF delegation. The SEMDR project dashboard was displayed on the RIF booth screens throughout the event.
+![4YFN](images/4yfn.jpg)
+![4YFN Booth](images/4yfn-boothj.jpg)
 
 #### January 2026 — HVAC supervisory control validated against Elias Digital Twin
 The HVAC supervisory control algorithm has been validated against a custom thermal model of the pilot site, calibrated using real data collected from the hotel's building management system during the cooling season.
 
 #### 12 December 2025 — SEMDR results presented at CIGRE 2025, Athens
 Dr Andrey Sesyuk (Project Coordinator) presented the consortium paper *"Real-World Demonstration of Optimized Pool Pump Control for Demand Response in the Hospitality Sector"* at the 32nd Scientific Conference of EU CIGRE in Athens, Greece.
+![CIGRE](images/cigre.jpg)
 
 #### November 2025 — Pool pump optimisation promoted to production
 After passing all promotion gates during supervised shadow-mode and controlled-activation trials, the system was promoted to continuous autonomous operation at pilot site.
