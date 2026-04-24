@@ -48,8 +48,8 @@ The pool pump optimisation algorithm has been running continuously and autonomou
 
 #### 2–5 March 2026 — 4YFN AI & Start-up Conference, Barcelona
 The consortium presented SEMDR at the Cyprus National Booth at the 4YFN conference in Barcelona, alongside the RIF delegation. The SEMDR project dashboard was displayed on the RIF booth screens throughout the event.
-<img src="images/images/4yfn.jpg" alt="4YFN" width="400">
-<img src="images/images/4yfn-boothj.jpg" alt="4YFN Booth" width="400">
+<img src="images/4yfn.jpg" alt="4YFN" width="400">
+<img src="images/4yfn-boothj.jpg" alt="4YFN Booth" width="400">
 
 #### January 2026 — HVAC supervisory control validated against Elias Digital Twin
 The HVAC supervisory control algorithm has been validated against a custom thermal model of the pilot site, calibrated using real data collected from the hotel's building management system during the cooling season.
