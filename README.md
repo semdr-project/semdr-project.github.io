@@ -92,10 +92,21 @@ The SEMDR consortium (IMKA, GridQ Ltd / Neura Energy, Restrol) kicked off the 12
 * **A. Sesyuk, K. Arnous, G. Masourekkos, A. Antoniou, A. Kryvarot, and A. T. Procopiou**, *"Real-World Demonstration of Optimized Pool Pump Control for Demand Response in the Hospitality Sector,"* 32nd Session of the Hellenic CIGRE Committee — CIGRE Greece 2025 Athens Session, Session C6 Active Distribution Systems and Distributed Energy Resources, Athens, Greece, 12 December 2025. 
 
 ---
-
 ## Deliverables
 
-Deliverable reports are available upon request to the coordinator. A selection of public-facing summaries and datasets is available through the Open Science Outputs above.
+The SEMDR project produced 17 deliverables across five work packages. The deliverables classified as *Public* in the project's Description of Work are available for download below. Deliverables classified as *Confidential* (project management, risk assessment, and progress reports to the funder) are not made publicly available.
+
+### Work Package 2 — Dissemination, Exploitation, and Open Science
+
+* **D2.1 — Dissemination, Communication, and Outreach Activities Report** [[PDF]](deliverables/SEMDR_Deliverable_D21_Dissemination, Communication, and Outreach Activities Report_v1.pdf)
+* **D2.3 — Open Science Activities Report** [[PDF]](deliverables/SEMDR_Deliverable_D23_Open Science Activities Report_v1.pdf)
+* **D2.4 — Data Management Plan** [[PDF]](deliverables/SEMDR_Deliverable_D24_Data Management Plan_v1.pdf)
+
+### Work Package 3 — Technical Requirements and System Validation
+
+* **D3.1 — State of the Art Review** [[PDF]](deliverables/SEMDR_Deliverable_D31_State of the Art Review_v1.pdf)
+* **D3.2 — Technical Requirements and Specifications** [[PDF]](deliverables/SEMDR_Deliverable_D32_Technical Requirements and Specifications Report_v1.pdf)
+* **D3.3 — Use Case Scenarios and KPIs Report** [[PDF]](deliverables/SEMDR_Deliverable_D33_Use Case Scenarios and KPIs Report_v1.pdf)
 
 ---
 
