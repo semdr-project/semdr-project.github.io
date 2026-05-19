@@ -120,6 +120,6 @@ The SEMDR project produced 17 deliverables across five work packages. The delive
 
 ---
 
-![Funding logos](images/funding-logos.png)
+![Funding logos](images/image-1.png)
 
-SEMDR (Project Code: COM-CONCEPT-ENERGY/0624/0160) is funded by the Research and Innovation Foundation of Cyprus under the RESTART 2016–2020 Programmes, with support from the European Union – NextGenerationEU and the Republic of Cyprus Recovery and Resilience Plan.
+The project COM-CONCEPT-ENERGY/0624/0160 is implemented within the framework of the Cyprus Recovery and Resilience Plan "Cyprus Tomorrow", with funding from the European Union - Next Generation EU, through the Research and Innovation Foundation.
